@@ -1,4 +1,4 @@
-# HyperV-unlock-tool
+# HyperV-unlocker
 
 Just a simple batch file to unlock Hyper-V if you dont have windows 10/11 pro or enterprise.
 (Yes this works on every Windows version with Hyper-V compatability.)
